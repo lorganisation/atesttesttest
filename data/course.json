@@ -1,0 +1,27 @@
+{
+  "level": "",
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "alice-gdrive-test-site"
+  },
+  "course_image": {
+    "content": "340cecda-47c3-4dd0-8b3e-7525d7d1df55",
+    "website": "alice-gdrive-test-site"
+  },
+  "course_title": "My Course",
+  "course_description": "",
+  "department_numbers": [
+    "1",
+    "5",
+    "8",
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "potato-potato-potato",
+  "course_image_thumbnail": {
+    "content": "f374878c-9df4-408e-bac0-bbfc8d7a5930",
+    "website": "alice-gdrive-test-site"
+  },
+  "learning_resource_types": []
+}
