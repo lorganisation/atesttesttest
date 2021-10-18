@@ -10,7 +10,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: First vide
+title: First video
 uid: 86535cd5-98ca-4743-bc92-8d77219b2035
 video_files:
   video_captions_file: ''
